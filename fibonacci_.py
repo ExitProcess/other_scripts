@@ -6,7 +6,7 @@ def fibo(n):
         n -= 1
 
 
-fibo(5555)
+fibo(7777)
 
 # a, b = b, a + b
 #
