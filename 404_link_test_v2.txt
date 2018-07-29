@@ -1,0 +1,828 @@
+https://www.python.org/downloads/
+        https://www.python.org/~anthony/anthonypub.asc
+https://www.python.org/downloads/
+        https://www.python.org/~gbrandl/gbrandlpub.asc
+https://www.python.org/downloads/
+        https://www.python.org/~nad/nadAA65421D.asc
+https://www.python.org/downloads/
+        https://www.python.org/~nad/nadpub.asc
+https://www.python.org/downloads/
+        https://www.python.org/~larry/larrygpg.asc
+https://www.python.org/downloads/
+        https://www.python.org/~peterson/pubkey.asc
+https://www.python.org/download/releases/2.6.8/
+        https://www.python.org/download/releases/2.6.8/NEWS.txt
+https://www.python.org/downloads/release/python-315/
+        https://www.python.org/downloads/release/3.1.4/
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/Python-2.7.2.tgz.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/Python-2.7.2.tar.bz2.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/Python-2.7.2.tar.xz.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/python-2.7.2.msi.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/python-2.7.2-pdb.zip.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/python-2.7.2.amd64.msi.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/python-2.7.2.amd64-pdb.zip.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/python-2.7.2-macosx10.6.dmg.asc
+https://www.python.org/download/releases/2.7.2/
+        https://www.python.org/download/releases/2.7.2/python-2.7.2-macosx10.3.dmg.asc
+https://www.python.org/download/releases/2.6.7/
+        https://www.python.org/download/releases/2.6.7/NEWS.txt
+https://www.python.org/download/releases/2.5.6/
+        https://www.python.org/download/releases/2.5.6/download/releases/2.5.4/
+https://www.python.org/download/releases/2.5.6/
+        https://www.python.org/download/releases/2.5.6/NEWS.txt
+https://www.python.org/download/releases/2.5.6/
+        http://www.python.org/doc/2.5/whatsnew/whatsnew25.html
+https://www.python.org/download/releases/2.5.6/
+        https://www.python.org/download/releases/2.5.4/md5sum.py
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/Python-2.7.1.tgz.asc
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/Python-2.7.1.tar.bz2.asc
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/python-2.7.1.msi.asc
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/python-2.7.1-pdb.zip.asc
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/python-2.7.1.amd64.msi.asc
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/python-2.7.1.amd64-pdb.zip.asc
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/python-2.7.1-macosx10.3.dmg.asc
+https://www.python.org/download/releases/2.7.1/
+        https://www.python.org/download/releases/2.7.1/python-2.7.1-macosx10.6.dmg.asc
+https://www.python.org/download/releases/2.6.6/
+        https://www.python.org/download/releases/2.6.6/NEWS.txt
+https://www.python.org/download/releases/2.6.6/
+        https://www.python.org/download/releases/2.6.6/Python-2.6.6.tgz.asc
+https://www.python.org/download/releases/2.6.6/
+        https://www.python.org/download/releases/2.6.6/Python-2.6.6.tar.bz2.asc
+https://www.python.org/download/releases/2.6.6/
+        https://www.python.org/download/releases/2.6.6/python-2.6.6.msi.asc
+https://www.python.org/download/releases/2.6.6/
+        https://www.python.org/download/releases/2.6.6/python-2.6.6.amd64.msi.asc
+https://www.python.org/download/releases/2.6.6/
+        https://www.python.org/download/releases/2.6.6/python266.chm.asc
+https://www.python.org/download/releases/2.6.6/
+        https://www.python.org/download/releases/2.6.6/python-2.6.6-macosx10.3.dmg.asc
+https://www.python.org/download/releases/2.6.5/
+        https://www.python.org/download/releases/2.6.5/NEWS.txt
+https://www.python.org/download/releases/2.6.5/
+        https://www.python.org/download/releases/2.6.5/Python-2.6.5.tgz.asc
+https://www.python.org/download/releases/2.6.5/
+        https://www.python.org/download/releases/2.6.5/Python-2.6.5.tar.bz2.asc
+https://www.python.org/download/releases/2.6.5/
+        https://www.python.org/download/releases/2.6.5/python-2.6.5.msi.asc
+https://www.python.org/download/releases/2.6.5/
+        https://www.python.org/download/releases/2.6.5/python-2.6.5.amd64.msi.asc
+https://www.python.org/download/releases/2.6.5/
+        https://www.python.org/download/releases/2.6.5/python-2.6.5.sig
+https://www.python.org/download/releases/2.5.5/
+        https://www.python.org/download/releases/2.5.5/NEWS.txt
+https://www.python.org/download/releases/2.5.5/
+        https://www.python.org/download/releases/2.5.5/Python-2.5.5.tgz.asc
+https://www.python.org/download/releases/2.5.5/
+        https://www.python.org/download/releases/2.5.5/Python-2.5.5.tar.bz2.asc
+https://www.python.org/download/releases/2.6.4/
+        https://www.python.org/download/releases/2.6.4/NEWS.txt
+https://www.python.org/download/releases/2.6.4/
+        https://www.python.org/download/releases/2.6.4/license
+https://www.python.org/download/releases/2.6.4/
+        https://www.python.org/download/releases/2.6.4/Python-2.6.4.tgz.asc
+https://www.python.org/download/releases/2.6.4/
+        https://www.python.org/download/releases/2.6.4/Python-2.6.4.tar.bz2.asc
+https://www.python.org/download/releases/2.6.4/
+        https://www.python.org/download/releases/2.6.4/python-2.6.4.msi.asc
+https://www.python.org/download/releases/2.6.4/
+        https://www.python.org/download/releases/2.6.4/python-2.6.4.amd64.msi.asc
+https://www.python.org/download/releases/2.6.4/
+        https://www.python.org/download/releases/2.6.4/python-2.6.4_macosx10.3.dmg.asc
+https://www.python.org/download/releases/2.6.4/
+        http://www.python.org/doc/2.6.4
+https://www.python.org/download/releases/2.6.4/
+        http://www.python.org/doc/2.6.4/download
+https://www.python.org/download/releases/2.6.3/
+        https://www.python.org/download/releases/2.6.3/NEWS.txt
+https://www.python.org/download/releases/2.6.3/
+        https://www.python.org/download/releases/2.6.3/license
+https://www.python.org/download/releases/2.6.3/
+        https://www.python.org/download/releases/2.6.3/Python-2.6.3.tgz.asc
+https://www.python.org/download/releases/2.6.3/
+        https://www.python.org/download/releases/2.6.3/Python-2.6.3.tar.bz2.asc
+https://www.python.org/download/releases/2.6.3/
+        https://www.python.org/download/releases/2.6.3/python-2.6.3.msi.asc
+https://www.python.org/download/releases/2.6.3/
+        https://www.python.org/download/releases/2.6.3/python-2.6.3.amd64.msi.asc
+https://www.python.org/download/releases/2.6.3/
+        https://www.python.org/download/releases/2.6.3/python-2.6.3-macosx.dmg.asc
+https://www.python.org/download/releases/2.6.3/
+        http://www.python.org/doc/2.6.3
+https://www.python.org/download/releases/2.6.3/
+        http://www.python.org/doc/2.6.3/download
+https://www.python.org/download/releases/2.6.2/
+        https://www.python.org/download/releases/2.6.2/NEWS.txt
+https://www.python.org/download/releases/2.6.2/
+        https://www.python.org/download/releases/2.6.2/Python-2.6.2.tgz.asc
+https://www.python.org/download/releases/2.6.2/
+        https://www.python.org/download/releases/2.6.2/Python-2.6.2.tar.bz2.asc
+https://www.python.org/download/releases/2.6.2/
+        https://www.python.org/download/releases/2.6.2/python-2.6.2.msi.asc
+https://www.python.org/download/releases/2.6.2/
+        https://www.python.org/download/releases/2.6.2/python-2.6.2.amd64.msi.asc
+https://www.python.org/download/releases/2.6.2/
+        https://www.python.org/download/releases/2.6.2/python-2.6.2-macosx2009-04-16.dmg.sig
+https://www.python.org/download/releases/2.6.2/
+        https://www.python.org/download/releases/2.6.2/python262.chm.asc
+https://www.python.org/download/releases/2.6.2/
+        http://www.python.org/doc/2.6.2
+https://www.python.org/download/releases/2.6.2/
+        http://www.python.org/doc/2.6.2/download
+https://www.python.org/download/releases/3.0.1/
+        https://www.python.org/download/releases/3.0.1/NEWS.txt
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/NEWS.txt
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/doc/2.5/whatsnew/whatsnew25.html
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/Python-2.5.4.tgz.asc
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/Python-2.5.4.tar.bz2.asc
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/python-2.5.4.msi.asc
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/python-2.5.4.amd64.msi.asc
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/python-2.5.4.ia64.msi.asc
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/python-2.5.4-macosx.dmg.asc
+https://www.python.org/download/releases/2.5.4/
+        https://www.python.org/download/releases/2.5.4/Python25.chm.asc
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/NEWS.txt
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/md5sum.py
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/Python-2.5.3.tgz.asc
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/Python-2.5.3.tar.bz2.asc
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/python-2.5.3.msi.asc
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/python-2.5.3.amd64.msi.asc
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/python-2.5.3.ia64.msi.asc
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/python-2.5.3-macosx.dmg.asc
+https://www.python.org/download/releases/2.5.3/
+        https://www.python.org/download/releases/2.5.3/Python25.chm.asc
+https://www.python.org/download/releases/2.4.6/
+        https://www.python.org/download/releases/2.4.6/NEWS.txt
+https://www.python.org/download/releases/2.4.6/
+        http://www.python.org/doc/2.4.4/whatsnew/whatsnew24.html
+https://www.python.org/download/releases/2.4.6/
+        http://www.python.org/doc/2.4.3/whatsnew/whatsnew24.html
+https://www.python.org/download/releases/2.4.6/
+        https://www.python.org/download/releases/2.4.6/md5sum.py
+https://www.python.org/download/releases/2.4.6/
+        https://www.python.org/download/releases/2.4.6/Python-2.4.6.tgz.asc
+https://www.python.org/download/releases/2.4.6/
+        https://www.python.org/download/releases/2.4.6/Python-2.4.6.tar.bz2.asc
+https://www.python.org/download/releases/2.6.1/
+        https://www.python.org/download/releases/2.6.1/NEWS.txt
+https://www.python.org/download/releases/2.6.1/
+        https://www.python.org/download/releases/2.6.1/Python-2.6.1.tgz.asc
+https://www.python.org/download/releases/2.6.1/
+        https://www.python.org/download/releases/2.6.1/Python-2.6.1.tar.bz2.asc
+https://www.python.org/download/releases/2.6.1/
+        https://www.python.org/download/releases/2.6.1/python-2.6.1.msi.asc
+https://www.python.org/download/releases/2.6.1/
+        https://www.python.org/download/releases/2.6.1/python-2.6.1.amd64.msi.asc
+https://www.python.org/download/releases/2.6.1/
+        https://www.python.org/download/releases/2.6.1/python-2.6.1-macosx2008-12-06.dmg.asc
+https://www.python.org/download/releases/2.6.1/
+        http://www.python.org/doc/2.6
+https://www.python.org/download/releases/2.6.1/
+        http://www.python.org/doc/2.6/download
+https://www.python.org/download/releases/2.6/
+        https://www.python.org/download/releases/2.6/NEWS.txt
+https://www.python.org/download/releases/2.6/
+        https://www.python.org/download/releases/2.6/Python-2.6.tgz.asc
+https://www.python.org/download/releases/2.6/
+        https://www.python.org/download/releases/2.6/Python-2.6.tar.bz2.asc
+https://www.python.org/download/releases/2.6/
+        https://www.python.org/download/releases/2.6/python-2.6.msi.asc
+https://www.python.org/download/releases/2.6/
+        https://www.python.org/download/releases/2.6/python-2.6.amd64.msi.asc
+https://www.python.org/download/releases/2.6/
+        https://www.python.org/download/releases/2.6/python-2.6-macosx2008-10-01.dmg.asc
+https://www.python.org/download/releases/2.3.7/
+        https://www.python.org/download/releases/2.3.7/NEWS.txt
+https://www.python.org/download/releases/2.3.7/
+        http://www.python.org/doc/2.3.5/whatsnew/whatsnew23.html
+https://www.python.org/download/releases/2.3.7/
+        https://www.python.org/doc/2.3.5/
+https://www.python.org/download/releases/2.3.7/
+        https://www.python.org/download/releases/2.3.7/md5sum.py
+https://www.python.org/download/releases/2.3.7/
+        https://www.python.org/download/releases/2.3.7/Python-2.3.7.tgz.asc
+https://www.python.org/download/releases/2.3.7/
+        https://www.python.org/download/releases/2.3.7/Python-2.3.7.tar.bz2.asc
+https://www.python.org/download/releases/2.4.5/
+        https://www.python.org/download/releases/2.4.5/NEWS.txt
+https://www.python.org/download/releases/2.4.5/
+        https://www.python.org/download/releases/2.4.5/md5sum.py
+https://www.python.org/download/releases/2.4.5/
+        https://www.python.org/download/releases/2.4.5/Python-2.4.5.tgz.asc
+https://www.python.org/download/releases/2.4.5/
+        https://www.python.org/download/releases/2.4.5/Python-2.4.5.tar.bz2.asc
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/NEWS.txt
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/md5sum.py
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/Python-2.5.2.tgz.asc
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/Python-2.5.2.tar.bz2.asc
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/python-2.5.2.msi.asc
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/python-2.5.2.amd64.msi.asc
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/python-2.5.2.ia64.msi.asc
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/python-2.5.2-macosx.dmg.asc
+https://www.python.org/download/releases/2.5.2/
+        https://www.python.org/download/releases/2.5.2/Python25.chm.asc
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/NEWS.txt
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/md5sum.py
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/Python-2.5.1.tgz.asc
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/Python-2.5.1.tar.bz2.asc
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/python-2.5.1.msi.asc
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/python-2.5.1.amd64.msi.asc
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/python-2.5.1.ia64.msi.asc
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/python-2.5.1-macosx.dmg.asc
+https://www.python.org/download/releases/2.5.1/
+        https://www.python.org/download/releases/2.5.1/Python25.chm.asc
+https://www.python.org/download/releases/2.3.6/
+        https://www.python.org/download/releases/2.3.6/NEWS.txt
+https://www.python.org/download/releases/2.3.6/
+        https://www.python.org/download/releases/2.3.6/md5sum.py
+https://www.python.org/download/releases/2.3.6/
+        https://www.python.org/download/releases/2.3.6/Python-2.3.6.tgz.asc
+https://www.python.org/download/releases/2.3.6/
+        https://www.python.org/download/releases/2.3.6/Python-2.3.6.tar.bz2.asc
+https://www.python.org/download/releases/2.5/
+        https://www.python.org/download/releases/2.5/NEWS.txt
+https://www.python.org/download/releases/2.5/
+        https://www.python.org/download/releases/2.5/IDLENEWS.txt
+https://www.python.org/download/releases/2.5/
+        https://www.python.org/download/releases/2.5/md5sum.py
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/2.4/index.html
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/2.4/highlights.html
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/doc/2.4/whatsnew/whatsnew24.html
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/2.4/msi.html
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/2.3/
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/download/releases/2.4.1/NEWS.html
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/doc/2.4.1/
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/download/releases/2.4.1/md5sum.py
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/download/releases/2.4.1/Python-2.4.1.tgz.asc
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/download/releases/2.4.1/Python-2.4.1.tar.bz2.asc
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/download/releases/2.4.1/python-2.4.1.msi.asc
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/download/releases/2.4.1/python-2.4.1.ia64.msi.asc
+https://www.python.org/download/releases/2.4.1/
+        https://www.python.org/download/releases/2.4.1/MacPython-OSX-2.4.1-1.dmg.asc
+https://www.python.org/download/releases/2.3.5/
+        https://www.python.org/doc/2.3/whatsnew/
+https://www.python.org/download/releases/2.3.5/
+        https://www.python.org/download/releases/2.3/mro/mro.txt
+https://www.python.org/download/releases/2.3.5/
+        https://www.python.org/download/releases/2.3.5/md5sum.py
+https://www.python.org/download/releases/2.3.5/
+        https://www.python.org/download/releases/2.3.5/Python-2.3.5.tgz.asc
+https://www.python.org/download/releases/2.3.5/
+        https://www.python.org/download/releases/2.3.5/Python-2.3.5.tar.bz2.asc
+https://www.python.org/download/releases/2.3.5/
+        https://www.python.org/download/releases/2.3.5/Python-2.3.5.exe.asc
+https://www.python.org/download/releases/2.3.4/
+        https://www.python.org/download/releases/2.3.4/NEWS.txt
+https://www.python.org/download/releases/2.3.4/
+        https://www.python.org/doc/2.3.4/whatsnew/
+https://www.python.org/download/releases/2.3.4/
+        https://www.python.org/doc/2.3.4/
+https://www.python.org/download/releases/2.3.4/
+        https://www.python.org/download/releases/2.3.4/md5sum.py
+https://www.python.org/download/releases/2.3.4/
+        https://www.python.org/download/releases/2.3.4/Python-2.3.4.tgz.asc
+https://www.python.org/download/releases/2.3.4/
+        https://www.python.org/download/releases/2.3.4/Python-2.3.4.tar.bz2.asc
+https://www.python.org/download/releases/2.3.4/
+        https://www.python.org/download/releases/2.3.4/Python-2.3.4.exe.asc
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/download/releases/2.3.3/NEWS.txt
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/doc/2.3.3/whatsnew/
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/doc/2.3.3/
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/2.2.3/descrintro
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/download/releases/2.3.3/md5sum.py
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/download/releases/2.3.3/Python-2.3.3.tgz.asc
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/download/releases/2.3.3/Python-2.3.3.tar.bz2.asc
+https://www.python.org/download/releases/2.3.3/
+        https://www.python.org/download/releases/2.3.3/Python-2.3.3.exe.asc
+https://www.python.org/download/releases/2.3.2/
+        https://www.python.org/download/releases/2.3.2/NEWS.txt
+https://www.python.org/download/releases/2.3.2/
+        https://www.python.org/doc/2.3.2/
+https://www.python.org/download/releases/2.3.2/
+        https://www.python.org/download.releases/2.3/mro
+https://www.python.org/download/releases/2.3.2/
+        https://www.python.org/download/releases/2.3.2/md5sum.py
+https://www.python.org/download/releases/2.3.2/
+        https://www.python.org/download/releases/2.3.2/Python-2.3.2.tgz.asc
+https://www.python.org/download/releases/2.3.2/
+        https://www.python.org/download/releases/2.3.2/Python-2.3.2.tar.bz2.asc
+https://www.python.org/download/releases/2.3.2/
+        https://www.python.org/download/releases/2.3.2/Python-2.3.2-1.exe.asc
+https://www.python.org/download/releases/2.3.1/
+        https://www.python.org/download/releases/2.3.1/NEWS.txt
+https://www.python.org/download/releases/2.3.1/
+        https://www.python.org/download/releases/2.3.1/ChangeLog.txt
+https://www.python.org/download/releases/2.3.1/
+        https://www.python.org/doc/2.3.1/
+https://www.python.org/download/releases/2.3.1/
+        https://www.python.org/download/releases/2.3.1/md5sum.py
+https://www.python.org/download/releases/2.3.1/
+        https://www.python.org/download/releases/2.3.1/Python-2.3.1.tgz.asc
+https://www.python.org/download/releases/2.3.1/
+        https://www.python.org/download/releases/2.3.1/Python-2.3.1.exe.asc
+https://www.python.org/download/releases/2.3/
+        https://www.python.org/download/releases/2.3/NEWS.txt
+https://www.python.org/download/releases/2.3/
+        https://www.python.org/doc/2.3/
+https://www.python.org/download/releases/2.3/
+        https://www.python.org/download/releases/2.3/md5sum.py
+https://www.python.org/download/releases/2.3/
+        https://www.python.org/download/releases/2.3/Python-2.3.tgz.asc
+https://www.python.org/download/releases/2.3/
+        https://www.python.org/download/releases/2.3/Python-2.3.exe.asc
+https://www.python.org/download/releases/2.2.3/
+        https://www.python.org/download/releases/2.2.3/NEWS.txt
+https://www.python.org/download/releases/2.2.3/
+        https://www.python.org/doc/2.2.3/whatsnew/
+https://www.python.org/download/releases/2.2.3/
+        https://www.python.org/doc/2.2.3
+https://www.python.org/download/releases/2.2.3/
+        https://www.python.org/download/releases/2.2.3/md5sum.py
+https://www.python.org/download/releases/2.2.2/
+        https://www.python.org/download/releases/2.2.2/NEWS.txt
+https://www.python.org/download/releases/2.2.2/
+        https://www.python.org/doc/2.2.2/whatsnew/
+https://www.python.org/download/releases/2.2.2/
+        https://www.python.org/doc/2.2.2
+https://www.python.org/download/releases/2.2.2/
+        https://www.python.org/download/releases/2.2.2/md5sum.py
+https://www.python.org/download/releases/2.2.1/
+        https://www.python.org/download/releases/2.2.1/NEWS
+https://www.python.org/download/releases/2.2.1/
+        https://www.python.org/doc/2.2.1/whatsnew/
+https://www.python.org/download/releases/2.2.1/
+        https://www.python.org/doc/2.2.1/
+https://www.python.org/download/releases/2.2.1/
+        https://www.python.org/download/releases/2.2.1/md5sum.py
+https://www.python.org/download/releases/2.1.3/
+        https://www.python.org/download/releases/2.1.3/NEWS.txt
+https://www.python.org/download/releases/2.1.3/
+        https://www.python.org/download/releases/2.1.2/md5sum.py
+https://www.python.org/download/releases/2.1.3/
+        https://www.python.org/doc/2.1.3/
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/download/releases/2.2/md5sum.py
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/dev/peps/pep-0252.html
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/dev/peps/pep-0253.html
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/dev/peps/pep-0234.html
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/dev/peps/pep-0255.html
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/dev/peps/pep-0238.html
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/dev/peps/pep-0237.html
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/doc/2.2.3/whatsnew/whatsnew22.html
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/download/releases/2.2/NEWS.txt
+https://www.python.org/download/releases/2.2/
+        https://www.python.org/doc/2.2/
+https://www.python.org/download/releases/2.0.1/
+        https://www.python.org/download/releases/2.0.1/NEWS.txt
+https://www.python.org/download/releases/2.0.1/
+        https://www.python.org/download/releases/2.0.1/md5sum.py
+https://www.python.org/download/releases/2.0.1/
+        https://www.python.org/doc/2.0.1/
+https://www.python.org/doc/essays/metaclasses/
+        https://www.python.org/doc/essays/metaclasses/meta-vladimir.txt
+https://www.python.org/doc/essays/metaclasses/
+        http://www.python.org/cgi-bin/faqw.py
+https://www.python.org/doc/essays/metaclasses/
+        http://www.python.org/cgi-bin/faqw.py?req=show&file=faq06.022.htp
+https://www.python.org/doc/essays/metaclasses/
+        https://www.python.org/doc/essays/metaclasses/Enum.py
+https://www.python.org/doc/essays/metaclasses/
+        https://www.python.org/doc/essays/metaclasses/Trace.py
+https://www.python.org/doc/essays/metaclasses/
+        https://www.python.org/doc/essays/metaclasses/Meta.py
+https://www.python.org/doc/essays/metaclasses/
+        https://www.python.org/doc/essays/metaclasses/Eiffel.py
+https://www.python.org/doc/essays/metaclasses/
+        https://www.python.org/doc/essays/metaclasses/Synch.py
+https://www.python.org/doc/essays/metaclasses/
+        https://www.python.org/doc/essays/metaclasses/Simple.py
+https://www.python.org/doc/essays/stdexceptions/
+        http://www.python.org/doc/lib/module-exceptions.html
+https://www.python.org/doc/essays/omg-darpa-mcc-position/
+        http://www.python.org/workshops/1997-10/proceedings/
+https://www.python.org/doc/essays/refcnt/
+        https://www.python.org/doc/api/refcounts.html
+https://www.python.org/doc/essays/cp4e/
+        https://www.python.org/doc/essays/sigs/edu-sig/
+https://www.python.org/download/releases/2.2/descrintro
+        https://www.python.org/download/releases/2.2/descrintro/bugs
+https://www.python.org/download/releases/2.2/descrintro
+        http://www.python.org/tim_one/
+https://www.python.org/community/sigs/current/email-sig
+        http://www.python.org/doc/current/lib/module-email.html
+https://www.python.org/community/sigs/current/i18n-sig
+        http://www.python.org/workshops/1997-10/proceedings/loewis.html
+https://www.python.org/community/sigs/current/i18n-sig
+        http://www.python.org/~bwarsaw/software/pyware.html
+https://www.python.org/community/awards/psf-awards/
+        http://www.python.org/dev/intro/
+https://www.python.org/about/success/honeywell/
+        http://www.python.org/pycon/2005/papers/14/Paper14/HTML/paper/Paper14.mht
+https://www.python.org/about/success/projectpipe/
+        https://www.python.org/about/success/projectpipe/projectPipeArchitecture.png
+https://www.python.org/about/success/suzanne/
+        http://www.python.org/doc/current/lib/module-BaseHTTPServer.html
+https://www.python.org/about/success/wingide/
+        http://www.python.org/topics/tkinter/
+http://www.python.org/dev/peps/pep-0545
+        https://www.python.org/psf/contrib/doc-contrib-form/
+https://www.python.org/events/python-events/553/
+        https://www.python.org/events/python-events/553/“https:/pydata.org/delhi2017“
+https://www.python.org/success-stories/carmanah-lights-way-python/
+        https://www.python.org/files/success/carmanah/xwalk-proto-zoom.jpg
+https://www.python.org/success-stories/test-success-story/
+        https://www.python.org/files/success/rackspace/datacenter.jpg
+https://www.python.org/dev/peps/pep-0201
+        http://www.python.org/pipermail/python-dev/2000-July/013139.html
+https://www.python.org/dev/peps/pep-0203
+        http://www.python.org/pipermail/python-list/2000-June/059556.html
+https://www.python.org/dev/peps/pep-0318
+        http://www.python.org/doc/essays/ppt/python10/py10keynote.pdf
+https://www.python.org/dev/peps/pep-0318
+        http://www.python.org/workshops/2002-02/
+https://www.python.org/dev/peps/pep-0318
+        http://www.python.org/doc/essays/ppt/euro2004/euro2004.pdf
+https://www.python.org/dev/peps/pep-0318
+        http://www.python.org/moin/PythonDecorators
+https://www.python.org/dev/peps/pep-0451
+        https://www.python.org/dev/peps/pep-0451/The"target"parameteroffind_spec()
+https://www.python.org/dev/peps/pep-3104
+        http://www.python.org/search/hypermail/python-1994q1/0301.html
+https://www.python.org/dev/peps/pep-3147
+        http://www.python.org/doc/current/library/imp.html
+https://www.python.org/dev/peps/pep-0200
+        http://www.python.org/doc/essays/styleguide.html
+https://www.python.org/dev/peps/pep-0200
+        http://www.python.org/pipermail/python-dev/1999-August/002252.html
+https://www.python.org/dev/peps/pep-0251
+        http://www.python.org/doc/2.2.1/whatsnew/whatsnew22.html
+https://www.python.org/dev/peps/pep-3100
+        http://www.python.org/doc/essays/ppt/pycon2003/pycon2003.ppt
+https://www.python.org/dev/peps/pep-3100
+        http://www.python.org/doc/essays/ppt/regrets/PythonRegrets.pdf
+https://www.python.org/dev/peps/pep-3100
+        http://www.python.org/moin/Python3.0
+https://www.python.org/dev/peps/pep-0009
+        http://www.python.org/dev/peps/pep-xxxx/
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/108893.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/108777.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/108848.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109237.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109250.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109310.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109448.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109491.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109537.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109607.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109709.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109804.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/109857.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/110061.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-July/110208.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-August/111427.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-August/111558.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-August/112551.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-August/112606.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-August/112758.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-dev/2000-July/013243.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-dev/2000-July/013364.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-dev/2000-August/014940.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-August/111785.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-list/2000-August/112529.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-dev/2000-August/014906.html
+https://www.python.org/dev/peps/pep-0225
+        http://www.python.org/pipermail/python-dev/2000-August/014876.html
+https://www.python.org/dev/peps/pep-0317
+        http://www.python.org/doc/essays/stdexceptions.html
+https://www.python.org/psf/records/board/resolutions
+        http://www.python.org/moin/WebsiteRedesignProposal
+https://www.python.org/psf/records/board/resolutions
+        http://www.python.org/psf/contrib-draft.html
+https://www.python.org/psf/records/board/resolutions
+        http://www.python.org/moin/PythonSoftwareFoundationLicenseV2Easy
+https://www.python.org/psf/records/exemption
+        https://www.python.org/files/psf/records/exemption.png
+https://www.python.org/psf/records/exemption
+        https://www.python.org/files/psf/records/exemption.tif
+https://www.python.org/psf/press-release/pr20050309/
+        http://www.python.org/pycon/2005/
+https://www.python.org/psf/press-release/pr20041221/
+        http://www.python.org/moin/PyConDC2005/Sprints
+https://www.python.org/psf/press-release/pr20031219/
+        http://www.python.org/2.3.3/
+https://www.python.org/psf/press-release/pr20031003/
+        http://www.python.org/2.3.2/
+https://www.python.org/psf/press-release/pr20030923/
+        http://www.python.org/2.3.1/
+https://www.python.org/psf/press-release/pr20030729/
+        http://www.python.org/2.3/
+https://www.python.org/jobs/3191/
+        https://www.python.org/jobs/3189/
+https://www.python.org/jobs/3191/
+        https://www.python.org/jobs/3192/
+https://www.python.org/jobs/3197/
+        https://www.python.org/jobs/3196/
+https://www.python.org/download/releases/2.5/highlights
+        http://www.python.org/doc/2.5/whatsnew/
+https://www.python.org/download/releases/2.4/
+        https://www.python.org/doc/2.4/
+https://www.python.org/download/releases/2.4/
+        https://www.python.org/download/releases/2.4/md5sum.py
+https://www.python.org/download/releases/2.4/
+        https://www.python.org/download/releases/2.4/Python-2.4.tgz.asc
+https://www.python.org/download/releases/2.4/
+        https://www.python.org/download/releases/2.4/Python-2.4.tar.bz2.asc
+https://www.python.org/download/releases/2.4/
+        https://www.python.org/download/releases/2.4/python-2.4.msi.asc
+https://www.python.org/download/releases/2.4/
+        https://www.python.org/download/releases/2.4/python-2.4.ia64.msi.asc
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/NEWS.txt
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/md5sum.py
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/Python-2.4.4.tgz.asc
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/Python-2.4.4.tar.bz2.asc
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/python-2.4.4.msi.asc
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/python-2.4.4.ia64.msi.asc
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/python-2.4.4-macosx2006-10-18.dmg.asc
+https://www.python.org/download/releases/2.4.4
+        https://www.python.org/download/releases/2.4.4/python24.chm.asc
+https://www.python.org/download/releases/2.3/highlights
+        https://www.python.org/download/releases/2.3/highlights/NEWS.txt
+https://www.python.org/download/releases/2.3.7/bugs
+        http://www.python.org/moin/Python_202_2e3_2e1_20Platform_20Reports
+https://www.python.org/news/security/PSF-2006-001/
+        http://www.python.org/2.4.4/
+https://www.python.org/news/security/PSF-2006-001/
+        http://www.python.org/2.3.6/
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/download/releases/2.4.3/NEWS.txt
+https://www.python.org/download/releases/2.4.3/
+        http://www.python.org/doc/2.4/whatsnew/whatsnew24.html
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/doc/2.4.3/
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/download/releases/2.4.3/md5sum.py
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/download/releases/2.4.3/Python-2.4.3.tgz.asc
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/download/releases/2.4.3/Python-2.4.3.tar.bz2.asc
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/download/releases/2.4.3/python-2.4.3.msi.asc
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/download/releases/2.4.3/python-2.4.3.ia64.msi.asc
+https://www.python.org/download/releases/2.4.3/
+        https://www.python.org/download/releases/2.4.3/Universal-MacPython-2.4.3-2006-04-07.dmg.asc
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/download/releases/2.4.2/NEWS.txt
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/doc/2.4.2/
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/download/releases/2.4.2/md5sum.py
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/download/releases/2.4.2/Python-2.4.2.tgz.asc
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/download/releases/2.4.2/Python-2.4.2.tar.bz2.asc
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/download/releases/2.4.2/python-2.4.2.msi.asc
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/download/releases/2.4.2/python-2.4.2.ia64.msi.asc
+https://www.python.org/download/releases/2.4.2/
+        https://www.python.org/download/releases/2.4.2/MacPython-OSX-2.4.2-1.dmg.asc
+https://www.python.org/download/releases/2.4.1/notes/
+        http://www.python.org/doc/current/lib/
+https://www.python.org/download/releases/2.4.1/notes/
+        http://www.python.org/2.2/descrintro.html
+https://www.python.org/download/releases/2.4.1/notes/
+        http://www.python.org/2.2/
+https://www.python.org/download/releases/2.3/mro
+        http://www.python.org/2.2.2/descrintro.html
+https://www.python.org/download/releases/2.1/
+        https://www.python.org/download/releases/2.1/NEWS.txt
+https://www.python.org/download/releases/2.1/
+        https://www.python.org/download/releases/2.1/md5sum.py
+https://www.python.org/download/releases/2.1/
+        https://www.python.org/doc/2.1/
+https://www.python.org/download/releases/2.1/
+        https://www.python.org/doc/2.1/download.html
+https://www.python.org/download/releases/2.2.2/descrintro
+        https://www.python.org/download/releases/2.2.3/descrintro.html
+https://www.python.org/download/releases/2.2.2/descrintro
+        https://www.python.org/download/releases/2.2/descrintro.html
+https://www.python.org/download/releases/2.2.2/descrintro
+        https://www.python.org/download/releases/2.3/mro.html
+https://www.python.org/download/releases/2.2.1/descrintro
+        https://www.python.org/download/releases/2.2.1/descrintro/bugs
+https://www.python.org/download/releases/2.0/
+        https://www.python.org/doc/2.0/
+https://www.python.org/download/releases/2.0/
+        https://www.python.org/download/releases/2.0/new-python.htm
+https://www.python.org/community/sigs/retired/compiler-sig
+        https://www.python.org/files/sigs/dev-day-notes.txt
+https://www.python.org/community/sigs/retired/do-sig
+        http://www.python.org/mailman/listinfo/do-sig
+https://www.python.org/community/sigs/retired/do-sig
+        http://www.python.org/pipermail/do-sig/
+https://www.python.org/community/sigs/retired/plot-sig
+        http://www.python.org/pipermail/plot-sig/
+https://www.python.org/community/sigs/retired/thread-sig
+        http://www.python.org/pipermail/thread-sig/
+https://www.python.org/community/sigs/retired/types-sig
+        http://www.python.org/pipermail/types-sig/2000-January/001310.html
+https://www.python.org/community/sigs/retired/types-sig
+        http://www.python.org/mailman/listinfo/types-sig
+https://www.python.org/community/sigs/retired/string-sig
+        http://www.python.org/pipermail/string-sig/
+https://www.python.org/community/sigs/retired/gui-sig
+        http://www.python.org/pipermail/gui-sig/
+https://www.python.org/community/sigs/retired/objc-sig
+        http://www.python.org/pipermail/objc-sig/
+https://www.python.org/community/sigs/retired/locator-sig
+        https://www.python.org/community/index.html
+https://www.python.org/community/sigs/retired/locator-sig
+        https://www.python.org/community/sigs/retired/locator-sig/mission
+https://www.python.org/community/sigs/retired/locator-sig
+        https://www.python.org/community/sigs/current/catalog-sig/
+https://www.python.org/community/sigs/retired/pattern-sig
+        http://www.python.org/pipermail/pattern-sig.html
+https://www.python.org/community/sigs/retired/pattern-sig
+        https://www.python.org/community/sigs/retired/pattern-sig/mission
+https://www.python.org/community/sigs/retired/progenv-sig
+        http://www.python.org/pipermail/progenv-sig.html
+https://www.python.org/community/sigs/retired/progenv-sig
+        https://www.python.org/community/sigs/retired/progenv-sig/mission
+https://www.python.org/community/sigs/retired/pythonwin-sig
+        http://www.python.org/pipermail/pythonwin-sig.html
+https://www.python.org/community/sigs/retired/pythonwin-sig
+        https://www.python.org/community/sigs/retired/pythonwin-sig/mission
+https://www.python.org/community/sigs/current/distutils-sig/doc/
+        https://www.python.org/files/sigs/ipc8_paper.html
+https://www.python.org/community/sigs/current/distutils-sig/doc/
+        https://www.python.org/files/sigs/ipc8_paper.pdf.gz
+https://www.python.org/community/sigs/current/distutils-sig/doc/
+        https://www.python.org/files/sigs/ipc8_paper.ps.gz
+https://www.python.org/community/sigs/current/distutils-sig/doc/
+        https://www.python.org/files/sigs/sc_submission.html
+https://www.python.org/community/sigs/current/distutils-sig/doc/
+        https://www.python.org/files/sigs/ipc8_talk.ag.gz
+https://www.python.org/community/sigs/current/distutils-sig/doc/
+        https://www.python.org/files/sigs/ipc8_talk.ppt.gz
+https://www.python.org/success-stories/gravityzoo/
+        https://www.python.org/success-stories/gravityzoo/GravityZoo
+https://www.python.org/success-stories/projectpipe/
+        https://www.python.org/success-stories/projectpipe/projectPipeArchitecture.png
+https://www.python.org/psf/records/board/minutes/2013-06-14/
+        http://www.python.org/psf/codeofconduct/Reworked
+https://www.python.org/psf/records/board/minutes/2008-12-08/
+        https://www.python.org/psf/records/board/minutes/2008-12-08/www.obooe.org
+https://www.python.org/psf/records/board/minutes/2005-09-13/
+        http://www.python.org/2006/cfp
+https://www.python.org/psf/records/board/minutes/2002-04-09/
+        http://www.python.org/psf/psf-contributor-agreement.html
+https://www.python.org/psf/records/members/2002-07
+        http://www.python.org/workshops/oscon2002
+https://www.python.org/download/releases/1.5/whatsnew
+        https://www.python.org/doc/essays/packages.html
+https://www.python.org/download/releases/1.5/whatsnew
+        https://www.python.org/doc/essays/stdexceptions.html
+https://www.python.org/community/sigs/retired/getopt-sig/compare
+        http://www.python.org/doc/2.3/lib/module-optparse.html
+https://www.python.org/community/sigs/retired/getopt-sig/compare
+        https://www.python.org/community/sigs/retired/getopt-sig/compare/ripoff_help.txt
+https://www.python.org/community/sigs/retired/getopt-sig/compare
+        https://www.python.org/community/sigs/retired/getopt-sig/compare/ripoff_optik.py
+https://www.python.org/community/sigs/retired/getopt-sig/compare
+        https://www.python.org/community/sigs/retired/getopt-sig/compare/ripoff_iterator.py
+https://www.python.org/community/sigs/retired/getopt-sig/compare
+        https://www.python.org/community/sigs/retired/getopt-sig/compare/ripoff_argtools.py
+https://www.python.org/community/sigs/current/image-sig/t1lib/
+        https://www.python.org/community/sigs/current/image-sig/t1lib/README
+https://www.python.org/community/sigs/current/image-sig/t1lib/
+        https://www.python.org/community/sigs/current/image-sig/t1lib/LICENSE
+https://www.python.org/community/sigs/current/image-sig/t1lib/
+        https://www.python.org/community/sigs/current/image-sig/t1lib/t1lib.html
+https://www.python.org/community/sigs/current/image-sig/t1lib/
+        https://www.python.org/community/sigs/current/image-sig/t1lib/t1Imaging.html
+http://www.python.org/psf/records/members/2009-03-27/bylaws/
+        https://www.python.org/psf/records/members/2009-03-27/bylaws/new/new-bylaws.txt
+http://www.python.org/psf/records/members/2009-03-27/bylaws/
+        https://www.python.org/psf/records/members/2009-03-27/bylaws/old/old-bylaws.txt
+http://www.python.org/psf/records/members/2009-03-27/bylaws/
+        https://www.python.org/psf/records/members/2009-03-27/bylaws/diff/diff.txt
+http://www.python.org/psf/records/members/2009-03-27/bylaws/
+        https://www.python.org/psf/records/members/2009-03-27/bylaws/diff/cdiff.txt
+https://www.python.org/events/python-user-group/651/
+        https://www.python.org/events/python-user-group/651/https/djangogirls.org/plateau/
+https://www.python.org/events/python-user-group/590/
+        https://www.python.org/events/python-user-group/590/https/djangogirls.org/jos/
+https://www.python.org/events/python-user-group/494/
+        https://www.python.org/events/python-user-group/494/*https:/www.meetup.com/Chennaipy/events/236805740/
+https://www.python.org/events/python-events/450/
+        https://www.python.org/events/python-events/450/“http:/http:/pydata.org/dc2016/“
+https://www.python.org/events/python-user-group/192/
+        https://www.python.org/events/python-user-group/192/Piłsudskiego 135
